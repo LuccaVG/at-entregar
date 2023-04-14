@@ -1,0 +1,15 @@
+C:\Users\54297548895\Desktop\Trab.tabuada\bin\Debug\net7.0\Trab.tabuada.exe
+C:\Users\54297548895\Desktop\Trab.tabuada\bin\Debug\net7.0\Trab.tabuada.deps.json
+C:\Users\54297548895\Desktop\Trab.tabuada\bin\Debug\net7.0\Trab.tabuada.runtimeconfig.json
+C:\Users\54297548895\Desktop\Trab.tabuada\bin\Debug\net7.0\Trab.tabuada.dll
+C:\Users\54297548895\Desktop\Trab.tabuada\bin\Debug\net7.0\Trab.tabuada.pdb
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.csproj.CoreCompileInputs.cache
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.dll
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\refint\Trab.tabuada.dll
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.pdb
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\Trab.tabuada.genruntimeconfig.cache
+C:\Users\54297548895\Desktop\Trab.tabuada\obj\Debug\net7.0\ref\Trab.tabuada.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "trabalho.gente.1/1.0.0": {
+        "runtime": {
+          "trabalho.gente.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho.gente.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
